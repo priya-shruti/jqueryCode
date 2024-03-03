@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#box {
+    /* background: pink; */
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+.first {
+    background: tan;
+}
+
+.second {
+    background: pink;
+}

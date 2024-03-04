@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $("#stylebutton").click(function () {
-        $("#box").css({ "background": "pink","color":"red" })
+    $("#appendBtn").click(function () {
+        $("#box").append("<h2>Yahoo</h2>")
     });
 });

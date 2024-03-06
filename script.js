@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $("#appendBtn").click(function () {
-        $("#box").append("<h3>Yahoo</h3>")
+    $("#wrapBtn").click(function () {
+        $("#child-C").parent().css('background','red')
     });
 });
